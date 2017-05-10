@@ -1,0 +1,6 @@
+
+Infos sur le projet Symfony :
+- API Facebook
+- API Twitter
+- Bundle Bootstrap
+- Bundle d'e-commerce au choix
