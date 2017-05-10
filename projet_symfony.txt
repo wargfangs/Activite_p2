@@ -4,3 +4,4 @@ Infos sur le projet Symfony :
 - API Twitter
 - Bundle Bootstrap
 - Bundle d'e-commerce au choix
+- Utiliser le langage Twig
